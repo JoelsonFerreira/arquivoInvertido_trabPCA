@@ -1,0 +1,34 @@
+Como mencionado anteriormente, um grande numero de requerimentos e
+considerado em PPHs encontrados na pratica. Considerando o PPHE, apesar
+dos diferentes modelos encontrados na literatura, alguns requerimentos sao
+bastante frequentes e serao apresentados nos paragrafos seguintes.
+Considerando-se requerimentos relativos ao corpo docente, geralmente devem
+ser evitados buracos em dias letivos dos professores, ou seja, periodos de
+inatividade entre periodos com atividade. Dias com poucas alocacoes isoladas
+tambem devem ser evitados, favorecendo a construcao de quadros de horarios
+compactos para professores, de modo que suas aulas concentrem-se em poucos
+dias da semana. Essas questoes foram consideradas em [27, 61, 6, 25, 19, 32, 44,
+8, 31, 56, 33]. Deve-se observar que restricoes desse tipo, desejaveis na maioria
+dos casos, sao essenciais quando sao considerados professores que trabalham
+em mais de uma instituicao, situacao bastante comum na realidade brasileira.
+A compacidade de horarios para turmas geralmente nao e considerada como
+um criterio para avaliacao da qualidade de um quadro de horarios visto que,
+na maioria das vezes, as turmas devem ter todo o seu horario preenchido com
+aulas.
+Do ponto de vista pedagogico, restricoes importantes tratam da distribui-
+cao das aulas de um professor a turma no decorrer da semana: dependendo do
+assunto lecionado, aulas com maior ou menor duracao em cada dia podem ser
+necessarias. Em [33, 6], por exemplo, a distribuicao das aulas de um professor
+a turma no decorrer da semana e especificada por padroes de blocos com tamanhos
+variados, ja em [27], de um modo mais especifico, determina-se quais
+aulas devem durar um ou dois periodos (aulas geminadas). Em [61, 67, 66, 65],
+especifica-se um numero minimo de aulas geminadas para que as certas atividades
+letivas sejam realizadas. De qualquer modo a existencia de dias letivos com
+muitas aulas de um mesmo assunto para uma turma deve ser evitada, seja atraves
+da penalizacao dos chamados agrupamentos, como em [25], seja atraves
+da remocao de horarios com essas caracteristicas do espaco de busca, como em
+[11]. Alguns trabalhos tambem consideram a alocacao uniforme de diferentes
+conteudos em um mesmo dia, evitando na turma a sobrecarga de disciplinas
+consideradas dificeis, ou de assuntos relacionados [27], como matematica e fi-
+sica. De modo semelhante, [33] divide as disciplinas em principais, no caso o
+ensino da lingua nativa e matematica, e subsidiarias, no caso biologia.

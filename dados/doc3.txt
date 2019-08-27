@@ -1,0 +1,16 @@
+A geracao de grade de horarios e um problema antigo, enfrentado pelas instituicoes de
+ensino superior normalmente em todo inicio de periodo letivo. Chefes de departamento e
+coordenadores de curso dedicam horas (ou dias) de trabalho em busca de uma solucao que,
+quase invariavelmente, nao e otima. De fato, trata-se de um problema combinatorio
+complexo, pois o conjunto de interesses particulares da instituicao, professores e alunos
+geram diversas condicoes conflitivas a serem atendidas.
+A importancia dessa atividade, suas dificuldades e pesquisas voltadas a busca para solucao
+do problema remete a Gotlieb em 1963 e se estende em diversos artigos publicados em
+conferencias e periodicos cientificos [Schaerf, 1995].
+Na literatura cientifica, o tema de trabalho e conhecido como timetabling. O problema de
+timetabling aplicado a sistemas de ensino consiste em agendar uma sequencia de encontros
+(aulas, exames, bancas, palestras ou outro tipo de atividade escolar) entre instituicao,
+professores e estudantes em um periodo de tempo prefixado, satisfazendo um conjunto de
+restricoes de variados tipos [Paim e Greis, 2008]. Em boa parte das solucoes propostas,
+tecnicas de Inteligencia Artificial, como as buscas locais em um espaco de estados possiveis,
+sao utilizadas.

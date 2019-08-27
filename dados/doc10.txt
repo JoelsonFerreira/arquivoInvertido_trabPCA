@@ -1,0 +1,15 @@
+As instituicoes educacionais se deparam com um grande problema que requer tempo e
+paciencia para resolver, a alocacao de professores na grade horaria. Esse problema e
+sempre encontrado a cada periodo letivo e na maioria das instituicoes e resolvido
+manualmente, o que torna a obtencao da melhor solucao uma tarefa demorada.
+Essa demora para obter o melhor resultado e devido a varios motivos, como a
+disponibilidade dos professores, reducao dos dias em que o professor estara na
+instituicao, e cada professor nao pode estar alocado em duas turmas ao mesmo tempo,
+entre outras. Estes motivos sempre geram conflitos e que tem que ser solucionados, nem
+sempre agradando a todos, mas chegando a melhor forma possivel.
+O objetivo do desenvolvimento desse trabalho e diminuir o trabalho manual e o
+tempo gasto pelos coordenadores, diretores e funcionarios da secretaria de instituicoes
+que sempre se deparam com os problemas no inicio do semestre de se conseguir alocar
+todos os professores, atendendo as restricoes que cada um possui, pois um professor
+nem sempre e exclusivo da instituicao, portanto nao esta disponivel a todo o tempo para
+atende-la.

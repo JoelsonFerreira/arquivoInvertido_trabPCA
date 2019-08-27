@@ -1,0 +1,18 @@
+O Departamento de Computacao da Universidade Federal de Sergipe (DCOMP) e
+composto por tres cursos: Ciencia da Computacao, Sistemas de Informacao e Engenharia da
+Computacao. O departamento possui 28 professores, entre efetivos e substitutos, que sao
+responsaveis por ministrar disciplinas desses 3 cursos. Atualmente, o DCOMP conta com
+aproximadamente 650 alunos, que estao dispostos entre os tres turnos. As funcoes
+administrativas sao divididas entre tres coordenadores, um para cada curso, e acima deles
+estao o chefe e o subchefe do departamento. Toda esta estrutura e apoiada por 2 tecnicos
+administrativos e 3 estagiarios.
+Um conceito presente e a ideia de creditos. Cada disciplina possui certa quantidade de
+creditos e cada credito significa uma hora-aula semanal. Normalmente, um maximo de duas
+horas-aula de uma mesma disciplina acontece em um mesmo dia. Outro ponto importante e a
+existencia de 3 tipos de disciplinas: as obrigatorias, as optativas e as eletivas. A primeira sao
+as disciplinas que os alunos obrigatoriamente devem cursar para obter sua formacao. As 
+F. Vieira & H. Macedo, Scientia Plena 7, 039901 (2011) 5
+optativas formam o curriculo complementar; cada curso dispoe de uma quantidade
+predeterminada de creditos optativos que o aluno deve cumprir. As eletivas sao disciplinas
+cujo conteudo esta mais distante do curriculo pedagogico do curso, mas que podem ser
+cursadas e podem compor um limite percentual dos creditos optativos.

@@ -1,0 +1,17 @@
+A dificuldade de producao de bons quadros de horarios advem, basicamente,
+de dois pontos, como especificado em [35]. Primeiramente, tem-se a dificuldade
+do tomador de decisoes em definir claramente quais as caracteristicas desejadas
+no quadro de horarios. Por exemplo, como as aulas de um professor devem se
+alocadas para que o mesmo que satisfeito? Como as aulas de matematica devem
+ser distribuidas no decorrer de uma semana para que o aproveitamendo dos
+alunos seja o maximo possivel? O que constitui um quadro de horarios eficiente
+para uma dada instituicao de ensino? Estes problemas sao geralmente problemas
+com multiplos objetivos. Nao raramente esses objetivos sao conflitantes,
+sendo que a definicao de cada um desses, bem como a sua importancia relativa,
+e uma tarefa do tomador de decisoes e do analista.
+A outra dificuldade com os PPHs e puramente matematica: problemas desse
+tipo sao problemas de associacao, de natureza combinatoria. Os metodos computacionais
+exatos de resolucao existentes para PPHs geralmente trabalham
+com enumeracao do espaco de solucoes, mesmo que implicitamente, limitando
+severamente o tamanho das instancias que podem ser resolvidas em tempos
+computacionais razoaveis.

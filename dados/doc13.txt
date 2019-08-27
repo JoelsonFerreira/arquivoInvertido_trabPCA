@@ -1,0 +1,13 @@
+A solucao proposta e utilizar a coloracao de grafos, realizar a atribuicao de cores aos
+vertices, de modo que vertices adjacentes tenham cores distintas. Se G e um grafo
+simples, entao uma coloracao para G e uma atribuicao de cores para cada vertice de
+forma que vertices adjacentes tenham diferentes cores. O problema de coloracao de
+grafos e NP-completo.
+A aplicacao nesse problema seria resolver: N disciplinas que devem ter seus
+exames escalonados de forma a nao haver conflitos entre eles, e usando-se o menor
+numero de periodos possivel, associando a coloracao de grafos onde cada disciplina sera
+representada por um vertice e se houver conflito entre duas disciplinas, como serem
+lecionadas no mesmo horario e pelo mesmo professor, existira uma aresta entre os dois
+vertices. A solucao seria obtida atribuindo o menor numero possivel de cores. Uma cor
+seria associada a um vertice, representando uma celula de horario, onde os vertices de
+mesma cor e sem aresta podem ser realizados no mesmo horario.

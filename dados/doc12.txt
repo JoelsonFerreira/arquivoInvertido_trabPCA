@@ -1,0 +1,14 @@
+Problemas de alocacao de horario tambem sao conhecidos como School Timetabling,
+sao considerados uma aplicacao da otimizacao combinatoria da classe NP dificil, sendo
+mais facil analisar se o resultado esta correto do que obter analiticamente tal solucao em
+tempo polinomial, nao existindo um modelo solucao universal. (Preis, 2007)
+O tipo de restricoes envolvidas no problema pode envolver a disponibilidade dos
+recursos, preferencias pessoais, cumprimento da grade curricular, conflito de horarios,
+janelas, a existencia de mais de um professor designado para lecionar uma mesma
+disciplina; e diversas outras restricoes que dependem da instituicao em questao.
+A combinacao dessas restricoes, que podem ser cada vez maiores, torna o
+problema cada vez mais complexo, mostrando que a utilizacao de algoritmos otimos
+normalmente torna-se inviavel quando o tamanho da entrada para o problema e muito
+grande ou quando as restricoes sao complicadas. Ao observar a bibliografia, a maioria
+das abordagens e feita atraves de algoritmos heuristicos, que sao metodos que
+encontram uma solucao aproximada com tempo computacional reduzido.

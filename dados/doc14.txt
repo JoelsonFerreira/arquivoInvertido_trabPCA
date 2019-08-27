@@ -1,0 +1,14 @@
+O sistema permite tambem como entrada de dados o numero de periodos que o
+curso mantem atualmente, esse numero e multiplicado por 10 (dez) que corresponde ao
+numero de aulas ministradas semanalmente, consequentemente ao numero de cores. O
+resultado gera o numero de vertices, onde, logo apos havendo igualdade na coloracao e
+feita uma comparacao para verificacao das restricoes, onde houver restricao e gerada
+uma aresta onde automaticamente serao feitas as modificacoes necessarias para gerar a
+melhor opcao da grade horaria.
+Na execucao do programa, a entrada foi a situacao real do DCC em que existem
+4 periodos distintos, o resultado satisfatorio seria alocar 40 aulas. Foram realizados
+testes e modificacoes foram feitas no codigo, dos resultados, o mais proximo foi com 29
+alocacoes e o mais distante com 17 alocacoes. Abaixo pode ser visualizado um dos
+testes realizados, onde e exibida a posicao, local de alocacao no vetor, materia, codigo
+da disciplina lecionada, professor, matricula do professor e qual horario e lecionada a
+disciplina.

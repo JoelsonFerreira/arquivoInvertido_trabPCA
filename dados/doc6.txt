@@ -1,0 +1,19 @@
+Restricoes hard sao as que nao podem ser violadas em qualquer hipotese, pois causariam a
+inviabilidade da grade de horario. Ja as restricoes soft, sao restricoes desejaveis, que devem
+ser preferencialmente seguidas; sua violacao, no entanto, nao inviabiliza a solucao.
+Existem algumas abordagens para modelagem do problema de timetabling e
+automatizacao da solucao. Uma abordagem inicial assumia que cada evento tivesse
+exatamente um grupo de alunos associado a este, um professor nomeado, e um numero de
+horarios de livre escolha [Cooper e Kingston, 1996]. Atualmente, dentre as varias tecnicas de
+resolucao existentes, as que mais se destacam sao as de algoritmos geneticos (AGs),
+satisfacao de restricoes, arrefecimento simulado, busca tabu, e algoritmos de colonias de
+formigas.
+A ideia do desenvolvimento dos AGs partiu dos conhecimentos da biologia, atraves da
+teoria evolutiva de Darwin e dos principios basicos da genetica moderna desenvolvida por
+Mendel. A teoria que foi utilizada como base para o desenvolvimento desta tecnica foi a de
+que uma populacao de individuos que se reproduzem sexualmente e resultado da mutacao e
+recombinacao dos genes sobreviventes das geracoes anteriores [Timoteo, 2002].
+Nessa tecnica, diversos individuos diferentes sao gerados aleatoriamente e somente os
+mais adaptados sobrevivem. O fundamento basico e criar individuos, avalia-los, selecionar os
+mais aptos, realizar o cruzamento de seus codigos geneticos, e gerar novos individuos
+resultantes do processo, que possivelmente sao mais adaptados.

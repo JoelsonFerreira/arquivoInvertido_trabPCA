@@ -1,0 +1,19 @@
+Em 2002, a Metaheuristics Network[2] organizou uma competicao, a International
+Timetabling Competition (ITP)[55] de metodos de producao automatizada
+de quadros de horarios. Nesta competicao os proponentes deveriam desenvolver
+programas para resolver uma versao simplificada do problema de programacao
+de cursos em universidades. O programa que produzisse a melhor solucao em
+um tempo estipulado seria o vencedor. Essa atividade foi um marco bastante
+importante para a pesquisa na area, visto que, tradicionalmente, poucos autores
+realizavam experimentos computacionais comparando diferentes metodos de
+solucao. Ate entao, era bastante comum a ocorrencia de publicacoes que comparavam
+os resultados computacionais com a solucao produzida manualmente
+para o problema, um criterio bastante impreciso. Essa situacao ocorria principalmente
+devido a ja mencionada diversidade de necessidades das diferentes
+instituicoes de ensino. No caso do modelo considerado na ITP, sua qualidade
+nao e ser generico suficiente para modelar todos os casos existentes, mas sim
+incorporar algumas caracteristicas que sao comuns a grande maioria dos problemas
+de programacao de cursos encontrados em universidades.
+Recentemente, foi lancada uma nova edicao da competicao [1], nessa edicao
+sao consideradas tres categorias: Programacao de Exames, Programacao de
+Cursos Pos-Matriculas e Programacao de Cursos baseada em Curriculos.

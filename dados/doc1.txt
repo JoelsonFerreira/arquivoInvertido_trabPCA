@@ -1,0 +1,30 @@
+O problema da construcao de grades horarias em qualquer instituicao de ensino se
+repete a cada semestre, ocasionado principalmente, pela indisponibilidade de horario
+dos professores e pelas aposentadorias, contratacao de novos professores e aditivos de
+contratos.
+A situacao do curso de Ciencia da Computacao nao e muito diferente deste cenario, pois
+a maior parte dos professores vem de outras cidades e nao ha um software que execute a
+montagem das grades horarias. O curso nao possui qualquer sistema informatizado para
+resolver o problema de alocacao de professores e gerar seu quadro de horarios com
+facilidade e agilidade, de acordo com a disponibilidade diaria e horaria dos professores.
+As restricoes sao tantas, que o resultado implica dificuldades no cotidiano da Instituicao
+durante todo o periodo, pois as solucoes encontradas nao atendem as expectativas, e
+todo esse trabalho e realizado manualmente.
+O proposito do artigo e apontar uma solucao para o problema de geracao da grade
+horaria do curso de Ciencia da Computacao, tendo em vista a situacao em que o sistema
+atual se encontra. O resultado final visa a relacao dos professores com suas respectivas
+materias e periodos, de modo que nao haja conflitos entre as partes envolvidas
+(materias, disponibilidade de tempo, professores), (Souza, Maculan and Ochi 2000)
+(Souza, Maculan e Ochi 2001), que obedecam a restricoes que garantirao um melhor
+arranjo das aulas, e gerem um quadro de horarios viavel para o professor, e aloquem o
+maximo de materias possiveis.
+Para buscar este objetivo e automatizar a geracao das grades horarias foi utilizado o
+software livre Free Timetabling Program (FET), que atendeu prontamente a todas as iteracoes do processo, desde a fase de cadastro, ate a geracao definitiva das grades do
+corpo docente.
+Este artigo esta dividido como se segue: a Secao 2 descrevera o problema de alocacao
+de horarios de uma forma geral e o problema especifico do curso de Ciencia da
+Computacao; a Secao 3 abordara algumas tecnicas utilizadas para resolver problemas de
+otimizacao combinatoria, entre os quais se enquadra o problema de alocacao de
+horarios; a Secao 4 apresentara o software FET utilizado para gerar as grades horarias;
+por ultimo, a Secao 5 apresentara as consideracoes finais e propostas de trabalhos
+futuros.

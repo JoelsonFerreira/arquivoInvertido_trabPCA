@@ -1,0 +1,19 @@
+Atualmente, o desenvolvimento das grades de horarios se da da seguinte forma. Os
+coordenadores dos cursos do DCOMP elaboram sugestoes de oferta que atendam as
+necessidades imediatas do curso que coordenam. Estas sugestoes sao enviadas ao chefe de
+departamento que analisa os pedidos dos coordenadores e tenta atender a todas as solicitacoes
+feitas. No entanto, muitas vezes, os horarios propostos sao conflitantes, neste momento se
+inicia a negociacao entre os responsaveis, almejando a construcao da estrutura de disciplinas
+obrigatorias que devem ser ofertadas. A partir deste momento as turmas comecam a ser
+disponibilizadas no sistema academico para que os alunos possam consulta-las.
+Em seguida, ha a criacao de turmas adicionais que e decidida atraves do resultado da
+analise da retencao de alunos dos cursos e verificacao de suas necessidades mais urgentes.
+Listas com sugestoes de disciplinas optativas e horarios sugestao sao disponibilizadas na
+secretaria do departamento durante algumas semanas, visando computar interesses e
+intencoes de matricula por parte dos alunos. A partir de entao, o chefe do departamento
+comeca a adicionar novas turmas de forma manual, tentando atender o maior numero possivel
+de exigencias, tanto por parte dos alunos, quanto por parte dos professores. Neste periodo a
+grade permanece disponibilizada para que os alunos comecem a construir seus horarios. Uma
+ultima e nao menos dificultosa etapa e entao iniciada. De fato, quase invariavelmente, alunos
+percebem choques de horarios e outras inconsistencias. O trabalho e entao retomado e a
+solucao e continuamente refinada ate que os problemas sejam completamente sanados.

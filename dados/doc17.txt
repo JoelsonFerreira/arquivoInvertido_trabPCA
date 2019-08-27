@@ -1,0 +1,18 @@
+Os metodos heuristicos sao amplamente utilizados para resolucao de problemas de
+complexidade NP-Dificil, onde incluem-se os problemas de alocacao de horarios. Estes metodos
+sao conhecidos por encontrar solucoes satisfatorias nao necessariamente otimas em tempo
+computacional aceitavel. Entre os metodos heuristicos de melhor eficiencia, destacam-se aqueles
+baseados em tecnicas de busca local como Busca Tabu, Simulated Annealing e VNS/VND
+(SANTOS, 2007).
+ Hansen e Mladenovic (1997) propuseram uma meta-heuristica intitulada Variable
+Neighborhood Search (VNS) baseada em buscas sistematicas em vizinhancas variaveis. Esta
+meta-heuristica explora de forma incremental os espacos de vizinhanca da solucao atual,
+variando as vizinhancas de acordo com a qualidade das solucoes encontradas.
+ Este trabalho propoe o desenvolvimento de uma solucao para os problemas de alocacao
+de horarios para uma instituicao de ensino superior atraves da construcao de uma heuristica
+baseada nos modelos VNS/VND. Para confeccao de uma instancia de teste foram utilizadas 7
+(sete) turmas, 37 (trinta e sete) disciplinas e 21 (vinte e um) professores dos cursos de Sistemas
+de Informacao e Analise e Desenvolvimento de Sistemas. A relevancia deste estudo esta
+associada a discussao dos problemas de alocacao de horarios e ao desenvolvimento de um
+modelo heuristico baseado no VNS/VND, alem da criacao de um algoritmo heuristico que tem
+por objetivo maximizar a preferencia dos professores aos dias e horarios de aulas.

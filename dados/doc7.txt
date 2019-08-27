@@ -1,0 +1,24 @@
+Na figura 1 esta ilustrado o ciclo de execucao de um AG. Primeiramente, e gerada uma
+populacao inicial de forma aleatoria. Os individuos sao avaliados atraves de uma funcao de
+avaliacao (fitness), que deve ser bem definida. Na etapa seguinte, uma condicao de parada e
+testada, que pode ser uma quantidade fixa de geracoes ou um valor medio de fitness para a
+populacao. Atraves do fitness de cada individuo e realizada a selecao para participar da etapa
+de reproducao, onde os individuos envolvidos trocam material genetico (crossover),
+produzindo os seres que constituirao a proxima populacao. Nao raramente ocorre mutacoes
+nos individuos criados, o que possibilita o surgimento de novas solucoes. Por fim, uma nova
+populacao e composta e o processo se repete.
+Os AGs tem como fundamento basico aplicar o processo de evolucao natural como um
+paradigma de solucao de problemas, a partir de sua implementacao em computador [Zuben,
+2000]. Em sua tese, Fang (1994) apresenta um framework para resolver problemas de
+timetabling modular em instituicoes educacionais atraves de AGs. Sua abordagem envolve
+tres componentes: declaracao das restricoes do problema especifico, construcao de uma
+funcao de avaliacao para o problema especifico e a utilizacao de um algoritmo genetico de
+problemas independentes para resolucao do problema.
+Na tecnica de Satisfacao de Restricoes (CSP - Constraint Satisfaction Problem), um
+conjunto de variaveis e um conjunto de restricoes sao especificados. Cada variavel tem um
+dominio nao-vazio de valores possiveis. Cada restricao envolve algum subconjunto das
+variaveis e especifica as combinacoes de valores permitidas para aquele subconjunto. Apesar
+da tecnica lidar diretamente com a definicao do que sao restricoes, ha uma certa limitacao
+para aplicacao de preferencias a estas restricoes, necessarias para modelagem das restricoes
+soft do problema tratado. Bistarelli et al (1997) apresentam uma proposta de solucao desta
+problematica com CSP.

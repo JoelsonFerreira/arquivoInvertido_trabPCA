@@ -1,0 +1,23 @@
+Burke et al (2003) define o problema de timetabling atraves de quatro parametros: T, um
+conjunto finito de horarios (times); R, um conjunto finito de recursos (resources); M, um
+conjunto de eventos (meetings); e C, um conjunto de restricoes (constraints). O problema esta
+em associar horarios e recursos aos eventos, buscando satisfazer as restricoes da melhor
+forma possivel.
+Normalmente, os problemas de timetabling sao classificados de acordo com os eventos a
+que se propoe: area esportiva, hospitalar, educacional, entre outras. Em relacao a area
+educacional, Schaerf (1995) classifica em tres diferentes grupos: school timetabling, course
+timetabling, examination timetabling. Os dois primeiros se caracterizam pelo agendamento
+de um conjunto de aulas (ensino medio e cursos universitarios, respectivamente), e o
+examination timetabling, para a marcacao de avaliacoes.
+A diferenca entre estas formas de classificacao esta na quantidade do conjunto finito de
+determinados parametros. O school timetabling possui uma quantidade de recursos menor,
+pois uma turma ja possui uma sala especificada e seu grupo de alunos, em sua maioria, e
+predeterminado, o que faz com que a complexidade seja reduzida. Em problemas de course
+timetabling existe um grande conjunto de restricoes: disciplinas de uma mesma turma podem
+ser alocadas em salas diferentes, cada disciplina e constituida por alunos de diversos cursos,
+professores possuem restricoes de horario por desempenharem outras atividades na
+instituicao, cada disciplina possui conjuntos de pre-requisitos que devem ser respeitados,
+entre outras.
+Ja no caso do examination timetabling, as restricoes sao minimas. Para cada disciplina
+existe uma avaliacao, as mesmas nao devem ocorrer em um mesmo dia e horario e a
+marcacao de provas em dias consecutivos deve ser evitada.

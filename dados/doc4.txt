@@ -1,0 +1,20 @@
+Existem algumas ferramentas comerciais que prometem a geracao automatizada de grades
+de horarios, entretanto, sua utilizacao e pouco frequente uma vez que este tipo de problema
+incorre em necessidades especificas de um determinado curso, em detrimento das solucoes
+genericas existentes.
+Este artigo descreve o sistema de geracao automatica de grade de horarios desenvolvido
+para atender as necessidades do Departamento de Computacao (DCOMP) da Universidade
+Federal de Sergipe (UFS), em particular, do curso de Sistemas de Informacao. O problema e
+formulado como uma busca local em espaco de estados e utiliza a metafora da selecao natural
+e evolucao para que a melhor solucao seja gerada ao final do processo. Esta tecnica de
+otimizacao e conhecida como Algoritmos Geneticos. A abordagem adotada permite a
+reproducao da solucao de forma a atender restricoes especificas de outros cursos e de outras
+instituicoes.
+O restante do artigo esta organizado da seguinte forma. Na secao 2, sao apresentados e
+discutidos os principais tipos de problemas de timetabling e trabalhos relacionados ao seu
+estudo e solucao. Uma breve explicacao da rationale dos algoritmos geneticos tambem e feita
+nesta secao. A secao 3 descreve o metodo utilizado para solucao do problema no DCOMP, o
+que inclui uma discussao dos pormenores da problematica, modelagem genetica do problema
+e implementacao da solucao. Resultados obtidos sao apresentados e discutidos na secao 4.
+Finalmente, na secao 5, sao apresentadas algumas conclusoes e perspectivas de trabalhos
+futuros.

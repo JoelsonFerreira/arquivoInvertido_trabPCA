@@ -1,0 +1,62 @@
+A alocacao horaria de pessoal e estudada pela pesquisa operacional ha
+muito tempo. Na literatura, problemas dessa natureza sao conhecidos com o nome
+de Timetabling, e abrangem um elevado numero de variantes. Dentre as variantes
+mais conhecidas, temos o nurse rostering, university timetabling, exam timetabling,
+sport timetabling, railway timetabling, school timetabling, course timetabling, classteacher
+timetabling, student scheduling, teacher assignment, project sheduling, bus
+scheduling, airflight schedules.
+Problemas de TT sao de natureza combinatoria e inteira, o que dificulta o uso
+eficiente de algoritmos otimizantes ja para instancias de pequeno porte. Na verdade,
+Even; Atai; Shamir (1) afirmam que o school Timetabling, variante relacionada a este
+trabalho, e considerado NP-Hard para quase todas as formas que ele pode
+aparecer, o que implica que esses problemas sao considerados inviaveis de serem
+resolvidos por metodos otimizantes em tempo computacional habil, pois o tempo de
+processamento aumenta exponencialmente com o numero de variaveis.
+Este trabalho toma por tema a resolucao de um problema da classe TT que
+trata da alocacao horaria de professores. Especificamente, e abordada a distribuicao
+de 52 professores em horarios dos plantoes de duvidas de 20 unidades-escolas ao
+longo da semana, para o Curso e Colegio Objetivo, empresa que atua ha mais de
+40 anos na area da educacao. O autor deste trabalho de formatura e funcionario do
+Objetivo no plantao de duvidas onde ministra plantoes nas disciplinas de
+Matematica, Quimica e Fisica.
+O objetivo da resolucao do problema consistiu-se em gerar um horario capaz
+de satisfazer as necessidades conjuntas de professores, coordenadores das
+unidades, alunos e coordenadores do plantao. Para tanto, fez-se o levantamento
+das necessidades dos interessados, bem como o estudo do relacionamento dessas
+necessidades aos requisitos do processo de alocacao, o que e feito no capitulo 4.
+Este estudo tambem abordou consideracoes sobre a qualidade do processo e do
+produto do processo, bem como meios para o controle de sua qualidade. Nesse
+contexto, definem-se as restricoes do problema, que visam impedir as caracteristicas
+17
+absolutamente indesejaveis no TT resultante, e tambem a funcao objetivo, que e
+utilizada como parametro de comparacao da qualidade entre as solucoes geradas.
+As restricoes do problema sao apresentadas no capitulo 4, e a funcao objetivo no
+capitulo 6.
+Como objetivo especifico deste trabalho, temos a automatizacao do processo
+e o uso de tecnicas da pesquisa operacional para a resolucao do problema. Para
+tanto, fez-se a modelagem de uma base normalizada de dados contendo as
+informacoes de entrada necessarias a alocacao conforme descrito no capitulo 5.
+Um algoritmo foi entao desenvolvido e implantado sob forma de um aplicativo que le
+as informacoes na base de dados e gera, como resultado, um TT final e elementos
+que caracterizam sua qualidade.
+O algoritmo desenvolvido para a resolucao do problema baseia-se em uma
+tecnica conhecida na pesquisa operacional como GRASP (Greedy Randomized
+Adaptative Search Procedure) ou procedimento de busca gulosa adaptativa e
+aleatoria. Trata-se de uma heuristica que contem, em seu escopo, dois outros
+algoritmos. O primeiro consiste em um algoritmo construtivo no qual uma solucao
+inicial e gerada elemento a elemento com base em um parametro aleatorio alfa. O
+segundo e um algoritmo de melhoria que procura localizar uma solucao otima nas
+vizinhancas da solucao gerada pela fase construtiva, ate que se esgotem as
+possibilidades de melhoria. Esse par construcao-melhoria de uma solucao se
+caracteriza como uma iteracao do algoritmo GRASP, ou um ciclo, e se repete ate
+que se esgote um tempo de processamento definido como parametro de entrada
+pelo usuario, ou um tempo de processamento sem se conseguir obter solucoes
+melhores, tambem definido como parametro de entrada. No final do processo, e
+retornada a melhor solucao encontrada em todas as iteracoes, ou ciclos, de
+processamento. O algoritmo assim desenvolvido e apresentado no capitulo 6.
+Para a verificacao da eficacia e eficiencia do algoritmo desenvolvido, foram
+feitos alguns testes preliminares no capitulo 7. O algoritmo GRASP e entao aplicado
+na resolucao do problema real no capitulo 8.
+No capitulo 9 sao discutidos os resultados obtidos e na conclusao, capitulo
+10, sao feitas consideracoes gerais relativas aos objetivos atingidos e sugestoes
+para trabalhos futuros.

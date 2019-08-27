@@ -1,0 +1,19 @@
+Este caso pode ser modelado e resolvido matematicamente como um problema
+de otimizacao combinatoria, na qual a complexidade aumenta exponencialmente em
+funcao do numero de disciplinas e de professores envolvidos. Existem varias tecnicas
+utilizadas para resolver a otimizacao combinatoria, dentre elas, a teoria dos grafos, mais
+especificamente a parte de coloracao, que sera abordado para a realizacao deste trabalho
+de conclusao de curso.
+A seguir, uma breve descricao das secoes que compoem este trabalho.
+A subsecao um apresenta o problema de alocacao do quadro de horarios 
+descrevendo suas principais caracteristicas. Na secao dois e feita uma revisao
+bibliografica onde sao apresentadas algumas tecnicas que podem ser utilizadas para
+resolver problemas de otimizacao combinatoria e tambem alguns trabalhos que ja foram
+realizados baseados no problema de alocacao de horario. Ja a secao tres aborda a
+solucao proposta, com os conceitos de coloracao de grafos e sua possivel aplicacao no
+problema, tambem apresenta o sistema desenvolvido e descreve o processo de
+realizacao de testes que tem por finalidade a formulacao de consideracoes em relacao a
+aplicacao desenvolvida. Por fim, a ultima secao tem como objetivo apresentar as
+conclusoes obtidas durante a realizacao deste trabalho de conclusao de curso, e
+principalmente o de relatar as analises dos resultados obtidos atraves da realizacao de
+testes.

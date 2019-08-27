@@ -1,0 +1,15 @@
+Os problemas de alocacao de horarios escolares sao recorrente a cada novo periodo nas
+instituicoes de ensino do pais. Este problema torna-se ainda mais complexo a medida que
+aumentam as variaveis envolvidas, tornando-se cada vez maior o numero de combinacoes
+possiveis e podendo chegar ao ponto de torna-lo de dificil solucao para metodos exatos. O
+metodo manual para resolucao destes problemas exige a atencao de muitos profissionais
+demandando muito tempo de trabalho. Solucoes computacionais otimizam os resultados alem de
+reduzir o numero de profissionais envolvidos no processo e o tempo gasto para confeccao dos
+horarios.
+ Souza (2000) aponta que problemas de alocacao de horarios sao bastante especificos de
+cada instituicao devido a grande diversidade de regimes educacionais, podendo variar de acordo
+com a regiao ou caracteristicas proprias de cada instituicao de ensino. Desta forma, e um
+consenso entre a comunidade cientifica a dificuldade de produzir instancias de teste para este
+problema devido a propria dificuldade de generalizacao do mesmo. Contudo, o grupo WATT
+(WorkGroup on Automated TimeTabling, http://www.asap.cs.nott.ac.uk/external/watt/
+index.shtml), tem se esforcado para criar uma base de instancias para o problema.
